@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFA_COREMVC", "CFA_COREMVC.csproj", "{5DDD3AEF-0BE1-4A86-9B08-210F30FE48DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DDD3AEF-0BE1-4A86-9B08-210F30FE48DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDD3AEF-0BE1-4A86-9B08-210F30FE48DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDD3AEF-0BE1-4A86-9B08-210F30FE48DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDD3AEF-0BE1-4A86-9B08-210F30FE48DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CFB3009-A104-4CDB-BCF5-B70A9416B459}
+	EndGlobalSection
+EndGlobal
